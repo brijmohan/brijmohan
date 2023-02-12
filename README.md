@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brijmohan, CEO of Nijta
-- 👀 I’m interested in privacy-aware softwares, especially the ones that can process voice data
+- 👋 Hi, I’m @brijmohan, Co-founder and CEO of Nijta
+- 👀 I build privacy-aware softwares, especially the ones that can process voice data
 - 🌱 I’m currently learning how to deploy research prototypes in production/operational settings
 - 💞️ I’m looking to collaborate on the co-development of our anonymization tools
 - 📫 You can reach me by sending an email to brij.srivastava [at] nijta.com
